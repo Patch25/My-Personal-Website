@@ -67,7 +67,7 @@ marquee{
     padding: 10px 24px; 
     cursor: pointer; 
     width: 33%; 
-    float: left;
+    float: center;
     
     
 }
@@ -78,7 +78,7 @@ marquee{
     padding: 10px 24px; 
     cursor: pointer; 
     width: 33%; 
-    float: left;
+    float: center;
    
 }
 #Contacts-btn{
@@ -88,6 +88,7 @@ marquee{
     padding: 10px 24px; 
     cursor: pointer; 
     width: 33%; 
+    float: center;
     
 }
 div.center{
